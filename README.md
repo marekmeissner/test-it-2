@@ -1,8 +1,8 @@
 Zadanie 2.1
 
 Studenci:
-Dominik Salomon 60367
-Szymon Blaszczyk 58478
+Dominik Salomon 60367,
+Szymon Blaszczyk 58478,
 Marek Meissner 63604
 
 Konflikty:
