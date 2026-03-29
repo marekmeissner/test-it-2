@@ -1,6 +1,6 @@
 import random
 def attack(attacker, defender):
-    damage = attacker["attack"]
+    damage = random.randint(1, attacker["attack"])
 
     if random.uniform(0,1) == 1:
         damage *= 2
