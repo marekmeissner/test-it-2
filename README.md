@@ -1,6 +1,11 @@
 Zadanie 2.1
 
-Conflicts
+Studenci:
+Dominik Salomon 60367
+Szymon Blaszczyk 58478
+Marek Meissner 63604
+
+Konflikty:
 
 <img width="590" height="157" alt="Screenshot 2026-03-29 at 08 51 40" src="https://github.com/user-attachments/assets/da4e7dc1-6961-42f6-825b-2d7cd9e7888c" />
 
